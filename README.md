@@ -50,23 +50,33 @@
 
 <img src="https://i.imgur.com/8ER9d5y.gif" alt="기기 제어"  />
 
+[링크](https://i.imgur.com/8ER9d5y.gif)
+
 ## 📽 감시
 
 ### 1. 미니맵 경로로 감시
 
 ![침입자 발견](https://i.imgur.com/lp79Tyd.gif)
 
+[링크](https://i.imgur.com/lp79Tyd.gif)
+
 ### 2. 침입자 발견
 
 ![침입자 발견](https://i.imgur.com/TpNE2VJ.gif)
+
+[링크](https://i.imgur.com/TpNE2VJ.gif)
 
 ### 3. 경로 편집
 
 ![감시 실행](https://i.imgur.com/pU65gv2.gif)
 
+[링크](https://i.imgur.com/pU65gv2.gif)
+
 ### 4. 감시 실행
 
 ![감시 실행](https://i.imgur.com/kuwPeoU.gif)
+
+[링크](https://i.imgur.com/kuwPeoU.gif)
 
 ## 📅 일정
 
@@ -74,23 +84,29 @@
 
 <img src="https://i.imgur.com/TznGODr.gif" alt="오늘의 일정" style="zoom:67%;" />
 
+[링크](https://i.imgur.com/TznGODr.gif)
+
 ## 🕹 터틀봇 조작
 
 ### 1. 미니맵 좌표로 조작
 
 ![터틀봇 제어](https://i.imgur.com/v9HImXP.gif)
 
+[링크](https://i.imgur.com/v9HImXP.gif)
+
 ### 2. 화살표 버튼으로 터틀봇 제어
 
 ![터틀봇 제어](https://i.imgur.com/2F8MAfw.gif)
 
-
+[링크](https://i.imgur.com/2F8MAfw.gif)
 
 ## 🎈 기타
 
 ### 1. 맵 생성
 
 ![맵 생성](https://i.imgur.com/xYrQPoJ.gif)
+
+[링크](https://i.imgur.com/xYrQPoJ.gif)
 
 ### 2. 사용자 지역의 날씨, 온도, 습도, 풍속 출력
 
@@ -100,10 +116,14 @@
 
 ![작물 재배 도움](https://i.imgur.com/CMA4hgB.gif)
 
+[링크](https://i.imgur.com/CMA4hgB.gif)
+
+
 ### 4. 물체 회피
 
 ![물체 회피](https://i.imgur.com/O8TwkPS.gif)
 
+[링크](https://i.imgur.com/O8TwkPS.gif)
 
 <br/>
 
